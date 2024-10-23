@@ -16,8 +16,7 @@ Este proyecto tiene como objetivo identificar y corregir inconsistencias en los 
 - `incongruencies.py`: Script principal que carga los datos, aplica las reglas y genera el informe de inconsistencias.
 - `participacio_final.py`: Archivo que contiene las variables y las reglas de validación.
 - `excepciones.py`: Diccionario con los casos especiales que deben ser excluidos del análisis.
-- `data/`: Carpeta que contiene los archivos de datos (`snPART_2024.sav`, `responsables.xlsx`).
-- `output/`: Carpeta donde se guardan los resultados generados (`incongruencias_por_regla.xlsx`).
+- `incongruencias_por_regla_tot`: demostración del output que genera el documento (se ha quitado la columna responsables por privacidad)
 
 ## Reglas de validación
 
